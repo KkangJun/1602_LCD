@@ -1,4 +1,4 @@
-16 x 2 Character LCD Library   
+16 x 2 Character LCD   
 ============================
    
 Development environment specifics:   
