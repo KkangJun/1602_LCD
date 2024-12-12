@@ -1,0 +1,19 @@
+# ninja log v5
+15	35	0	C:/Users/KkangJun/Desktop/MiniProject/1602_LCD/build/Debug/CMakeFiles/cmake.verify_globs	71e56878b28a7fab
+57	305	7556820213984215	CMakeFiles/1602_LCD.dir/Core/Src/syscalls.c.obj	a2bfa817d1ff0959
+36	261	7556944763551186	CMakeFiles/1602_LCD.dir/Core/Src/_CLCD.c.obj	f72c2e770b233a2f
+23	298	7556953230422900	build.ninja	450e61f521038d72
+59	239	7556820213182037	CMakeFiles/1602_LCD.dir/Core/Src/sysmem.c.obj	577502f45051b457
+69	350	7556820214317316	CMakeFiles/1602_LCD.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rcc.c.obj	a8dda6b6322d8fca
+80	201	7556820212899795	CMakeFiles/1602_LCD.dir/startup_stm32f407xx.s.obj	7c1f868f81991b88
+54	349	7556820214341155	CMakeFiles/1602_LCD.dir/Core/Src/stm32f4xx_it.c.obj	462548f65d0bdbef
+76	350	7556820214331135	CMakeFiles/1602_LCD.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_exti.c.obj	3a3705f305f8e5ac
+37	206	7556945274230341	CMakeFiles/1602_LCD.dir/Core/Src/main.c.obj	6b21cc9d307b465d
+65	351	7556820214356159	CMakeFiles/1602_LCD.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_gpio.c.obj	94b1a37085e3385e
+207	302	7556945275083636	1602_LCD.elf	517867a954936528
+73	353	7556820214420224	CMakeFiles/1602_LCD.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_utils.c.obj	9ca94ad1237f58aa
+62	353	7556820214378852	CMakeFiles/1602_LCD.dir/Core/Src/system_stm32f4xx.c.obj	80d590574730d271
+13	32	0	C:/Users/KkangJun/Desktop/MiniProject/1602_LCD/build/Debug/CMakeFiles/cmake.verify_globs	71e56878b28a7fab
+33	173	7556953327814099	CMakeFiles/1602_LCD.dir/Core/Src/_CLCD.c.obj	f72c2e770b233a2f
+36	187	7556953327948868	CMakeFiles/1602_LCD.dir/Core/Src/main.c.obj	6b21cc9d307b465d
+187	282	7556953328808342	1602_LCD.elf	517867a954936528
