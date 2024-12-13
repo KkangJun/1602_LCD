@@ -1,4 +1,4 @@
-16 x 2 Character LCD   
+16 x 2 Character LCD Test  
 ============================
    
 Development environment specifics:   
@@ -8,3 +8,7 @@ Development environment specifics:
 - STM32 VS Code Extension  2.1.1   
 - STM32 CubeMX             6.12.0   
 - LL Library (RCC, GPIO)   
+
+Reference:
+----------
+- HD44780U (Datasheet)
